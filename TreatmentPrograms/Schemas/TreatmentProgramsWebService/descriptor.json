@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "69492b62-68c3-4d7f-a072-8dbae008ac94",
+    "Name": "TreatmentProgramsWebService",
+    "ModifiedOnUtc": "\/Date(1640463515000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Лечебные программы Веб-сервис",
+    "DependsOn": []
+  }
+}

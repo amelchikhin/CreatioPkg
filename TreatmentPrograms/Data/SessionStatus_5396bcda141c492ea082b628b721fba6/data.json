@@ -1,0 +1,64 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8ad0cd42-225a-4e96-86db-b4699febee77"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1640355497540+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1640355497540+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "415c10b6-b9b7-e896-963f-9e25f7b6e659",
+          "Value": "Завершен"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3d17eea5-fa2a-4355-ad70-5bd43402f35f"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1640355508526+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1640355508526+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "415c10b6-b9b7-e896-963f-9e25f7b6e659",
+          "Value": "В работе"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3ac8bfd0-8f42-4336-a3b7-1d78cfe16526"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1640355519701+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1640355519701+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "415c10b6-b9b7-e896-963f-9e25f7b6e659",
+          "Value": "Запланирован"
+        }
+      ]
+    }
+  ]
+}

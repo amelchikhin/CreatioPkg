@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "1dabec14-18dc-4236-bdf6-d83ecffcd316",
+    "Name": "TraetmentProgramsFolder",
+    "ModifiedOnUtc": "\/Date(1640350249000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Лечебные программы",
+    "DependsOn": []
+  }
+}

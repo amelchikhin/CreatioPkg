@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ec31e01b-5c3b-4a9f-8e25-988479580817",
+    "Name": "TraetmentPrograms4a6298beSection",
+    "ModifiedOnUtc": "\/Date(1640350228000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Лечебные программы\"",
+    "DependsOn": []
+  }
+}

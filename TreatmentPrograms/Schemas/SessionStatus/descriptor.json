@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3c4326f4-073d-4502-aa32-e2a94e0d1730",
+    "Name": "SessionStatus",
+    "ModifiedOnUtc": "\/Date(1640355127000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Object",
+    "DependsOn": []
+  }
+}

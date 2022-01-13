@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "28549c68-b6f0-4b76-afac-1f64037abe2e",
+    "Name": "TraetmentProgramsInTag",
+    "ModifiedOnUtc": "\/Date(1640350267000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Лечебные программы",
+    "DependsOn": []
+  }
+}

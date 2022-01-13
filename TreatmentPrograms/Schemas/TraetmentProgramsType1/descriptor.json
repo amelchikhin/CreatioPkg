@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c1c7241e-a383-4e1a-897c-38ecf6236eb1",
+    "Name": "TraetmentProgramsType1",
+    "ModifiedOnUtc": "\/Date(1640350612000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тип объекта раздела \"Лечебные программы\"",
+    "DependsOn": []
+  }
+}

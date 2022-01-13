@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6815c4a1-7346-45c3-9a2e-b054fa7773a3",
+    "Name": "TraetmentPrograms",
+    "ModifiedOnUtc": "\/Date(1640356928000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Object",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "5c2f8e0e-49a4-abaf-72ce-ae4a4333d5a5",
+    "Name": "TreatmentPrograms",
+    "ModifiedOnUtc": "\/Date(1640346623000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "e14dcfb1-e53c-4439-a876-af7f97083ed9",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise"
+      }
+    ]
+  }
+}

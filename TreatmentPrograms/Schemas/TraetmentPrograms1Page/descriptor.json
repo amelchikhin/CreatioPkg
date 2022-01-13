@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "70f9b279-ac1a-4c93-9424-6ded219fac26",
+    "Name": "TraetmentPrograms1Page",
+    "ModifiedOnUtc": "\/Date(1640458303000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Лечебные программы\"",
+    "DependsOn": []
+  }
+}
